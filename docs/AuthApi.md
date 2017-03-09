@@ -1,6 +1,6 @@
 # lookerpy.AuthApi
 
-All URIs are relative to * https://hoteltonight.looker.com:19999/api/3.0*
+All URIs are relative to *https://hoteltonight.looker.com:19999/api/3.0*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
