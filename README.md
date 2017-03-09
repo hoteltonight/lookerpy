@@ -18,9 +18,9 @@ Python 2.7 and 3.4+
 You can install directly from Github:
 
 ```sh
-pip install git+https://github.com/bufferapp/lookerpy.git
+pip install git+https://github.com/hoteltonight/lookerpy
 ```
-(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/bufferapp/lookerpy.git`)
+(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/hoteltonight/lookerpy`)
 
 Then import the package:
 ```python
